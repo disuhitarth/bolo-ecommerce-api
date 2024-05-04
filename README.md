@@ -3,7 +3,7 @@
 
 This is a powerful and user-friendly Streamlit app that allows you to manage products and orders across multiple marketplaces like Etsy, eBay, Walmart, Amazon, Shopify, and TikTok using a single API. With its sleek and intuitive interface, you can easily perform various operations such as adding products, editing product details, downloading orders, and updating order statuses.
 
-![Bolo Print Image](https://boloprint.wordpress.com/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=3ced7520ce&postid=12&rand=19074) 
+![Bolo Print Image](https://drive.google.com/file/d/1Zurng2F0uvDg5-qAD2e3FsRIqa_9AHNH/view?usp=drive_link) 
 
 ## 🚀 Features
 
