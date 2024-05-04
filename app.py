@@ -25,6 +25,7 @@ def main():
     st.title("Boloprint Marketplace API")
 
     # Sidebar for selecting platforms
+    st.sidebar.image("images/boloprint high.png", caption="", width=150, use_column_width=True, clamp=False, channels="RGB", output_format="auto")
     st.sidebar.title("Select Platforms")
     platforms = st.sidebar.multiselect("Platforms", ["etsy", "ebay", "walmart", "amazon", "shopify", "tiktok"])
 
