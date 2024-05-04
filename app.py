@@ -20,9 +20,10 @@ def send_api_request(data):
 
 # Streamlit app
 def main():
-    st.title("Marketplace API")
+    st.title("Boloprint Marketplace API")
 
     # Sidebar for selecting platforms
+    st.sidebar.image("./images/", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
     st.sidebar.title("Select Platforms")
     platforms = st.sidebar.multiselect("Platforms", ["etsy", "ebay", "walmart", "amazon", "shopify", "tiktok"])
 
