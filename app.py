@@ -20,7 +20,7 @@ def send_api_request(data):
 
 # Streamlit app
 def main():
-    st.image("images/boloprint high.png", caption="BoloPrint Logo", width=15, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image("images/boloprint high.png", caption="BoloPrint Logo", width=200, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
     st.title("Boloprint Marketplace API")
 
